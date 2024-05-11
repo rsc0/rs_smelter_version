@@ -1,0 +1,1 @@
+# rs_smelter_version
